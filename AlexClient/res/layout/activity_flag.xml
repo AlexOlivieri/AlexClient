@@ -1,0 +1,30 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:gravity="center" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/policies" />
+    
+    <CheckBox android:id="@+id/checkbox_obscene"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/obscene"
+        android:checked="true"/>
+    <CheckBox android:id="@+id/checkbox_inappropriate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/inappropriate"
+        android:checked="true"/>
+    
+    <Button
+        android:id="@+id/next_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="start"
+        android:text="@string/next_button" />
+
+</LinearLayout>

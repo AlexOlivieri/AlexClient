@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AlexClient</string>
+    <string name="icon_image_description">This is the icon of my client</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
+    <string name="register_button">Create a new Account</string>
+    <string name="next_button">Next Button</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="policies">Select The Policies for your Gifts!</string>
+    <string name="obscene">Obscene</string>
+    <string name="inappropriate">Inappropriate</string>
+    <string name="gift_chain">Choose your Chains!</string>
+    <string name="gift_chain_search">Type your search!</string>
+    <string name="title_activity_flag">FlagActivity</string>
+    <string name="title_activity_gift_chain">GiftChainActivity</string>
+
+</resources>
